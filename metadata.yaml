@@ -1,5 +1,8 @@
 _repo: The-Industrial-History-of-England_55862
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 55862-h/images/cover.jpg
 creator:
   author:
     agent_name: Gibbins, Henry de Beltgens
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '44106'
     url: http://www.gutenberg.org/2009/agents/44106
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55862#The-Industrial-History-of-England
 gutenberg_issued: '2017-10-31'
 gutenberg_type: Text
 identifiers:
